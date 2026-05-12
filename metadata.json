@@ -1,0 +1,5 @@
+{
+  "name": "Agri-NPK Pro",
+  "description": "Smart Indian crop monitoring dashboard with real-time ThingSpeak integration and AI-powered fertilizer recommendations based on soil pH and weather data.",
+  "requestFramePermissions": ["geolocation"]
+}
